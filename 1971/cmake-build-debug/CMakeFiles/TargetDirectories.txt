@@ -1,0 +1,3 @@
+A:/Code/CLion/LeetCode/task1971/cmake-build-debug/CMakeFiles/task1971.dir
+A:/Code/CLion/LeetCode/task1971/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/Code/CLion/LeetCode/task1971/cmake-build-debug/CMakeFiles/rebuild_cache.dir
